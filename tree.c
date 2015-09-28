@@ -1,0 +1,5 @@
+/*
+
+Tree will take care of the root node and work with memory allocation and freeing it
+
+ */

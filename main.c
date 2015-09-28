@@ -1,0 +1,6 @@
+/*
+
+Main loop with alternatives and 
+calls for options.c
+
+*/
