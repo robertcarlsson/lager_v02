@@ -6,9 +6,9 @@ calls for options.c
 */
 #include <stdio.h>
 #include "main.h"
-#include "object.c"
-#include "tree.c"
-#include "undo.c"
+#include "object.h"
+#include "tree.h"
+#include "undo.h"
 #include "stdscan.c"
 
 
