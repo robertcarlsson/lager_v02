@@ -10,9 +10,9 @@ try to make it as a constant if possible. So nothing can change it.
 */
 #include <stdio.h>
 #include "main.h"
-#include "object.c"
-#include "tree.c"
-#include "undo.c"
+#include "object.h"
+#include "tree.h"
+#include "undo.h"
 #include "stdscan.c"
 
 
