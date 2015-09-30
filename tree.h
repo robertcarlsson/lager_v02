@@ -4,10 +4,10 @@
 // Here we will build up our tree functions and make both memory fixing and patching here
 
 // Memory allocation
-void node_constructor();
+void node_construcr();
 
 // Memory freeing
-void node_destructor();
+void node_destruct();
 
 // Adding node to the binary tree
 void binary_tree_search();

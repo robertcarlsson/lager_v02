@@ -5,7 +5,44 @@ remove
 edit
 print
 list
-
-
  */
+
 #include "options.h"
+#include "object.h"
+
+void add_good() {
+  // Will use a temp good might be able to use a constructor and destructor function
+  // Don't know where to put that though, what module
+  
+  Good *ptempGood = malloc(sizeof(struct Good));
+  // Find out some good memory checking instead of assert
+  // assert(temp != NULL);
+  
+  add_info_good(ptempGood);
+
+  // 3 options, Save, Edit, 
+
+  /* Fix the three options here, use stdscan.h
+  char choice;
+  do {
+    
+  if == S 
+  node_construct()
+
+
+  } while (true);
+  */
+
+
+  // End here
+  free(ptempGood);
+}
+
+void add_good_info(Good *pWare) {
+}
+
+void edit_good(Good *pWare) {
+  // Choose ware from the warehouse
+  //
+}
+
