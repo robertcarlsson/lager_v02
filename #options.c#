@@ -27,7 +27,7 @@ void add_good() {
   do {
     
   if == S 
-  node_construct(pTempGood)
+  node_construct(pTempGood);
 
 
   } while (true);

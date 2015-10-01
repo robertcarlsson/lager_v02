@@ -1,0 +1,1 @@
+lager: main.c object.c options.c stdscan.c tree.c undo.c
